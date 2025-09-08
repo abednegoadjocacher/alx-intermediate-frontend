@@ -1,0 +1,6 @@
+How I install SASS on my Windows machine.
+1. I Open my terminal in VS Code.
+2. I used 'pnpm' to install SAAS globally on my machine. I already have node install on my machine. But I have to install 'pnpm' using 'npm'.
+3. From my terminal, I entered 'pnpm install -g sass'
+I used the the flag '-g' to install on globally on my machine.
+4. Check if the installation was successful by checking the version installed using the command 'saas --version'
